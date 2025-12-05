@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class checkPrimeOrNot {
+public class checkPrimeOrNotByFunction {
     public static boolean Prime(){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter number: ");
