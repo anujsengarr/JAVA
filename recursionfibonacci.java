@@ -1,4 +1,4 @@
-public class recursionFibonacci {
+public class recursionfibonacci {
     public static void main(String[] args) {
         int n = 10; // Example: Find the 10th Fibonacci number
         int result = fibonacci(n);

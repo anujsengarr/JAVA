@@ -14,7 +14,7 @@ public record pattern() {
  else{
     System.out.println("i is not present");
  }
-System.out .println System is class
+    System.out .println System is class
 //print ln is method  method ko called . se karte h
 
         Scanner sc = new Scanner(System.in);
